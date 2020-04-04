@@ -1,0 +1,2 @@
+rootProject.name='json parsing using retrofit'
+include ':app'
